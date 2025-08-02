@@ -7,6 +7,7 @@
     <link rel="icon" href="/favicon.png" type="image/png"/>
     <link rel="stylesheet" href="css/style.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body class="dark">
 <div class="top-banner">
@@ -21,12 +22,19 @@
                 <path d="M12 0C5.37 0 0 5.37 0 12a12 12 0 008.2 11.45c.6.1.82-.25.82-.58v-2.02c-3.34.73-4.03-1.61-4.03-1.61-.55-1.39-1.34-1.76-1.34-1.76-1.1-.75.08-.74.08-.74 1.22.09 1.86 1.26 1.86 1.26 1.08 1.85 2.83 1.31 3.52 1 .1-.78.42-1.31.76-1.61-2.67-.3-5.47-1.34-5.47-5.95 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.17 0 0 1.01-.32 3.3 1.23a11.47 11.47 0 016 0c2.29-1.55 3.3-1.23 3.3-1.23.66 1.65.25 2.87.12 3.17.77.84 1.24 1.91 1.24 3.22 0 4.62-2.8 5.65-5.48 5.95.43.37.81 1.1.81 2.22v3.29c0 .34.22.69.83.58A12 12 0 0024 12c0-6.63-5.37-12-12-12z"/>
             </svg>
         </a>
+        <a href="https://www.youtube.com/@blenderpilot6098" target="_blank" rel="noopener noreferrer" aria-label="YouTube Channel">
+            <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="32" height="32">
+                <title>YouTube</title>
+                <path d="M23.498 6.186a2.96 2.96 0 0 0-2.084-2.084C19.594 3.5 12 3.5 12 3.5s-7.594 0-9.414.602A2.96 2.96 0 0 0 .502 6.186C0 8.006 0 12 0 12s0 3.994.502 5.814a2.96 2.96 0 0 0 2.084 2.084C4.406 20.5 12 20.5 12 20.5s7.594 0 9.414-.602a2.96 2.96 0 0 0 2.084-2.084C24 15.994 24 12 24 12s0-3.994-.502-5.814zM9.75 15.02V8.98L15.75 12l-6 3.02z"/>
+            </svg>
+        </a>
     </div>
     <nav class="navbar">
         <div class="nav-item active" data-section="about">About Me</div>
         <div class="nav-item" data-section="projects">Software Projects</div>
         <div class="nav-item" data-section="icons">Icon Design</div>
         <div class="nav-item" data-section="artworks">Artworks</div>
+        <div class="nav-item" data-section="other">Other</div>
     </nav>
     <div class="mode-toggle">
         <label class="switch">
@@ -56,10 +64,41 @@
         <p>Minimalist and clean icons I designed...</p>
     </div>
     <div id="artworks" class="section">
-        <h2>Artworks</h2>
-        <p>Digital illustrations, sketchbook drawings, 3D-art and photography...</p>
+        <h3>3D-Art</h3>
+        <div class="gallery">
+            <img src="image/artworks/Blender/ASK 23B.png" alt="Artwork 1">
+            <img src="image/artworks/Blender/ASW 19.png" alt="Artwork 2">
+            <img src="image/artworks/Blender/Audi A6 Kanalbild.png" alt="Artwork 3">
+            <img src="image/artworks/Blender/Cherry_Blossom_by_BP.png" alt="Artwork 4">
+            <img src="image/artworks/Blender/Cockpit_Alpen2.png" alt="Artwork 5">
+            <img src="image/artworks/Blender/Dauphin Corridor.jpg" alt="Artwork 6">
+            <img src="image/artworks/Blender/Cherry_Blossom_by_BP.png" alt="Artwork 7">
+            <img src="image/artworks/Blender/Earth.png" alt="Artwork 8">
+            <img src="image/artworks/Blender/Libelle Alpen.png" alt="Artwork 9">
+            <img src="image/artworks/Blender/Minecraft.png" alt="Artwork 10">
+            <img src="image/artworks/Blender/Schachbrett.png" alt="Artwork 11">
+            <img src="image/artworks/Blender/Space (1).png" alt="Artwork 12">
+            <img src="image/artworks/Blender/Tempel_05.png" alt="Artwork 13">
+            <img src="image/artworks/Blender/Turret Wallpaper.png" alt="Artwork 14">
+            <img src="image/artworks/Blender/Turret Weltraum.png" alt="Artwork 15">
+        </div>
+        <h3>Photography</h3>
+        <div class="gallery">
+        </div>
+        <h3>2D-Art</h3>
+        <div class="gallery">
+        </div>
+        <h3>Digital Art</h3>
+        <div class="gallery">
+        </div>
+    </div>
+    <div id="lightbox" class="lightbox hidden">
+        <img id="lightbox-img" src="" alt="Artwork full view">
     </div>
 </main>
 <script src="js/main.js" defer></script>
 </body>
+<footer class="site-footer">
+    last modified <span id="update-date"></span>
+</footer>
 </html>
