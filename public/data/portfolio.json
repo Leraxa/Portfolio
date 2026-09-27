@@ -1,0 +1,139 @@
+{
+  "artworks": [
+    {
+      "title": "Cherry blossom",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Cherry_Blossom_by_BP.png"
+    },
+    {
+      "title": "Above the Alps",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Cockpit_Alpen2.png"
+    },
+    {
+      "title": "The temple",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Tempel_05.png"
+    },
+    {
+      "title": "Drawing study 01",
+      "category": "2D Art",
+      "image": "/image/artworks/2D_Art/20150407_162722.jpg"
+    },
+    {
+      "title": "Drawing study 02",
+      "category": "2D Art",
+      "image": "/image/artworks/2D_Art/20150407_162749.jpg"
+    },
+    {
+      "title": "Drawing study 03",
+      "category": "2D Art",
+      "image": "/image/artworks/2D_Art/20150716_204848.jpg"
+    },
+    {
+      "title": "Drawing study 04",
+      "category": "2D Art",
+      "image": "/image/artworks/2D_Art/Bilder 007.jpg"
+    },
+    {
+      "title": "A game of chess",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Schachbrett.png"
+    },
+    {
+      "title": "ASK 23B",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/ASK 23B.png"
+    },
+    {
+      "title": "ASW 19",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/ASW 19.png"
+    },
+    {
+      "title": "Audi A6",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Audi A6 Kanalbild.png"
+    },
+    {
+      "title": "Dauphin Corridor",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Dauphin Corridor.jpg"
+    },
+    {
+      "title": "Earth",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Earth.png"
+    },
+    {
+      "title": "Into the unknown",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Space (1).png"
+    },
+    {
+      "title": "Libelle Alpen",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Libelle Alpen.png"
+    },
+    {
+      "title": "Minecraft",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Minecraft.png"
+    },
+    {
+      "title": "Orbital turret",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Turret Weltraum.png"
+    },
+    {
+      "title": "Turret study",
+      "category": "3D Art",
+      "image": "/image/artworks/Blender/Turret Wallpaper.png"
+    },
+    {
+      "title": "Digital portrait",
+      "category": "Digital Art",
+      "image": "/image/artworks/Digital_Art/flo 2.png"
+    },
+    {
+      "title": "Photographic study 01",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/0020.JPG"
+    },
+    {
+      "title": "Photographic study 02",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/004.JPG"
+    },
+    {
+      "title": "Photographic study 03",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/IMG_1370_2.png"
+    },
+    {
+      "title": "Photographic study 04",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/IMG_2013.JPG"
+    },
+    {
+      "title": "Photographic study 05",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/IMG_2070.JPG"
+    },
+    {
+      "title": "Photographic study 06",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/London 189 (2).JPG"
+    },
+    {
+      "title": "Photographic study 07",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/London 237.JPG"
+    },
+    {
+      "title": "Photographic study 08",
+      "category": "Photography",
+      "image": "/image/artworks/Photography/London 592.JPG"
+    }
+  ]
+}

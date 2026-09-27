@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {"title":"Portfolio","category":"WEB DEVELOPMENT","description":"A home for code and creative work. A responsive gallery with artwork filters, accessible image navigation and a personal dashboard.","tags":["JavaScript","Express","HTML / CSS"],"url":"https://github.com/Leraxa/Portfolio","visual":"portfolio","number":"01"},
+    {"title":"Game of Life","category":"SIMULATION","description":"Simple rules, emergent patterns. A C++ implementation of Conway’s cellular automaton, built as a Programming II semester project.","tags":["C++","Cellular automata","University project"],"url":"https://github.com/Leraxa/Game_of_Life","visual":"life","number":"02"},
+    {"title":"QuoteFix","category":"DEVELOPER TOOL","description":"One small script for a recurring task: replacing straight quotation marks with German typographic quotes in LaTeX and other documents.","tags":["Shell","LaTeX","Automation"],"url":"https://github.com/Leraxa/QuoteFix","visual":"quotes","number":"03"}
+  ],
+  "facts": [
+    {"label":"BASED IN","value":"Dresden","detail":"Germany · Europe/Berlin","symbol":"↗"},
+    {"label":"MY TWO WORLDS","value":"Code & creativity","detail":"Software development, 3D art and photography.","symbol":"✳"},
+    {"label":"IN THE TOOLBOX","value":"C++ · JavaScript · Shell","detail":"Languages used in my public projects.","symbol":"</>"}
+  ]
+}
